@@ -1,4 +1,4 @@
-# FE interview take-home project 1
+# fleet_dashboard
 
 ## Package install
 ### `yarn install`
